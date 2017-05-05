@@ -1,2 +1,1 @@
-# quackbox
-quackbox test project
+# skyPurple README
